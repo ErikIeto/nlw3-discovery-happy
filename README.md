@@ -18,7 +18,7 @@
 
 <p align="center">
   <img alt="Happy" src="github/happy.png" width="100%">
-    <img alt="Happy" src="github/happy_ipad.png" width="70%">
+    <img alt="Happy" src="github/happy_ipad.png" width="40%">
 </p>
 
 ## 🚀 Tecnologias
