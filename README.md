@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -18,6 +18,7 @@
 
 <p align="center">
   <img alt="Happy" src="github/happy.png" width="100%">
+    <img alt="Happy" src="github/happy_ipad.png" width="70%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,10 +32,10 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
+O Happy é um projeto que visa facilitar visitas à casas de acolhimento institucionais próximos a você 💜
 
-Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
-
+Este projeto é de responsabilidade da Rocketseat e foi desenvolvido durante a 3a edição da **[Next Level Week](https://nextlevelweek.com/)** - Trilha Discovery, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** entre os dias 12 a 18 de Outubro de 2020.
+ 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através dos links abaixo:
@@ -50,4 +51,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<p align="center">Desenvolvido com 💜 por Erik Ieto</p>
+<p align="center">Desenvolvido por Erik Ieto</p>
