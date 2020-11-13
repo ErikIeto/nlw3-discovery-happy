@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License">
- 
-</p>
+        <a href="https://github.com/ErikIeto/nlw3-discovery-happy/blob/main/LICENSE.md"><img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E6&labelColor=121214" alt="License" class="media-object"> </a>
+
+    </p>
 
 <br>
 
